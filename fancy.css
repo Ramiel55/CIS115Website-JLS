@@ -11,9 +11,14 @@ p{
 h1{
 	color: #ffffff;
 	font-family: Garamond;
-	font-size: 32px;
+	font-size: 48px;
 }
 h2{
+	color: #ffffff;
+	font-family: Garamond;
+	font-size: 32px;
+}
+h3{
 	color: #ffffff;
 	font-family: Garamond;
 	font-size: 32px;
