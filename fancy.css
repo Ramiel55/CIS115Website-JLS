@@ -1,0 +1,27 @@
+body {
+	background-color: black;
+}
+a{
+	color: #d9b3ff;
+}
+p{
+	color: #ffffff;
+	font-family: Garamond;
+}
+h1{
+	color: #ffffff;
+	font-family: Garamond;
+	font-size: 32px;
+}
+h2{
+	color: #ffffff;
+	font-family: Garamond;
+	font-size: 32px;
+}
+ol{
+	color: #ffffff;
+	font-family: Garamond;
+}
+.important{
+	font-style: 
+}
