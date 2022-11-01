@@ -27,3 +27,24 @@ ol{
 	color: #ffffff;
 	font-family: Garamond;
 }
+td{
+	border: 5px solid black;
+	width: 100px;
+	height: 100px;
+	font-size: 80px;
+	font-family: Garamond;
+	text-align: center;
+}
+
+td:nth-child(1)	{
+	border-left: none;
+}
+td:nth-child(3)	{
+	border-left: none;
+}
+tr:nth-child(1)	> td {
+	border-top: none;
+}
+tr:nth-child(3)	> td {
+	border-bottom: none;
+}
